@@ -1,7 +1,7 @@
 # VirtualPiano
 Browser based virtual piano, based on javascript and HTML5.
 
-[**Here**](http://otanim.github.io/VirtualPiano/) you can try out **Virtul Piano** online.
+[**Here**](http://otanim.github.io/virtual-piano/) you can try out **Virtul Piano** online.
 
 ## Demonstration
 [**YouTube**](https://www.youtube.com/watch?v=jFusXg5g1Gw)
