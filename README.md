@@ -3,12 +3,12 @@ Browser based virtual piano, based on javascript and HTML5.
 [**Here**](http://otanim.github.io/virtual-piano/) you can try out **Virtul Piano** online.
 
 # About
-This is my first public project that I've created when I supposed to learn JavaScript in 2014.  
+This is my first public project that I've created when I supposingly to learn JavaScript in 2014.  
 All sources have been created from scratch.
 
 # Copyright
 All Rights Reserved, please see the LICENSE file.  
-The company **Cristal Magic Studio Ltd** who owned https://virtualpiano.net website, plagiarized this project under their website without mentioning the real source.
+The company **Cristal Magic Studio Ltd** which owns https://virtualpiano.net website, plagiarized this project under their website without mentioning the real source.
 
 ## Demonstration
 [**YouTube**](https://www.youtube.com/watch?v=jFusXg5g1Gw)
