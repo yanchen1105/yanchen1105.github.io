@@ -1,12 +1,16 @@
 # VirtualPiano
 Browser based virtual piano, based on javascript and HTML5.
-
-# About
-This repository was created from scratch, all Rights Reserved.
-The company who owned https://virtualpiano.net is plagiarized this project under their website without mentioning the real source.
-## Demonstration
 [**Here**](http://otanim.github.io/virtual-piano/) you can try out **Virtul Piano** online.
 
+# About
+This is my first public project that I've created when I supposed to learn JavaScript in 2014.
+All sources have been created from scratch.
+
+# Copyright
+All Rights Reserved, please see the LICENSE file.  
+The company who owned https://virtualpiano.net is plagiarized this project under their website without mentioning the real source.
+
+## Demonstration
 [**YouTube**](https://www.youtube.com/watch?v=jFusXg5g1Gw)
 
 ## Screenshots
