@@ -8,7 +8,7 @@ All sources have been created from scratch.
 
 # Copyright
 All Rights Reserved, please see the LICENSE file.  
-The company who owned https://virtualpiano.net is plagiarized this project under their website without mentioning the real source.
+The company **Cristal Magic Studio Ltd** who owned https://virtualpiano.net website plagiarized this project under their website without mentioning the real source.
 
 ## Demonstration
 [**YouTube**](https://www.youtube.com/watch?v=jFusXg5g1Gw)
