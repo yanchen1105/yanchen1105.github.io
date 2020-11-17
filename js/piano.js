@@ -65,12 +65,12 @@
     this.assist = function() {
         var n;
         if (this.as) {
-            for ($("assistd").innerHTML = "Key assist Off", n = 0; n < notes.w_n.length; n++) $("a" + notes.w_c[n] + "d").innerHTML = "";
+            for ($("assistd").innerHTML = "键盘助手off", n = 0; n < notes.w_n.length; n++) $("a" + notes.w_c[n] + "d").innerHTML = "";
             for (n = 0; n < notes.b_n_.length; n++) $("b" + notes.b_c[n] + "d").innerHTML = "";
             this.as = !1;
             loc.set("assist", "")
         } else {
-            for ($("assistd").innerHTML = "Key assist On", n = 0; n < notes.w_c.length; n++) $("a" + notes.w_c[n] + "d").innerHTML = "<br/><br/><br/><br/><br/><br/>" + notes.w_n[n];
+            for ($("assistd").innerHTML = "键盘助手on", n = 0; n < notes.w_c.length; n++) $("a" + notes.w_c[n] + "d").innerHTML = "<br/><br/><br/><br/><br/><br/>" + notes.w_n[n];
             for (n = 0; n < notes.b_c.length; n++) $("b" + notes.b_c[n] + "d").innerHTML = "<br/>" + notes.b_n_[n] + "<br/>+<br/>&#8679";
             this.as = !0;
             loc.set("assist", "x")
